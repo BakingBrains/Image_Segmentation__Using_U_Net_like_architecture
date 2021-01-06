@@ -3,6 +3,6 @@ Image Segmentation Using U-Net
 
 Dataset: 
 
-1. http://www.robots.ox.ac.uk/~vgg/data/pets/data/images.tar.gz
+Images: http://www.robots.ox.ac.uk/~vgg/data/pets/data/images.tar.gz
 
-2. http://www.robots.ox.ac.uk/~vgg/data/pets/data/annotations.tar.gz
+Annotations: http://www.robots.ox.ac.uk/~vgg/data/pets/data/annotations.tar.gz
